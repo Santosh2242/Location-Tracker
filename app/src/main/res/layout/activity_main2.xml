@@ -9,7 +9,7 @@
     tools:context=".MainActivity2">
 
     <ImageView
-        android:src="@drawable/profile"
+        android:src="@drawable/l"
         android:layout_width="200dp"
         android:layout_height="200dp"/>
 
